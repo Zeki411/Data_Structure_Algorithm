@@ -1,0 +1,9 @@
+.vscode/
+C/.vscode/
+C/build/
+
+Cpp/.vscode/
+Cpp/build/
+
+Python/.vscode/
+Python/venv/
